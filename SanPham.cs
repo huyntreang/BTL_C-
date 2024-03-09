@@ -291,7 +291,7 @@ namespace BTL_HSK
                     cmd.Parameters.AddWithValue("@maSP", sMaSP);
                     cmd.Parameters.AddWithValue("@tenSP", sTenSP);
                     cmd.Parameters.AddWithValue("@doDai", fDoDai);
-
+                    //change code
                     cnn.Open();
                     int i = cmd.ExecuteNonQuery();
                     cnn.Close();
