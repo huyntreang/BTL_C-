@@ -1,0 +1,13 @@
+D:\c#\BTL_HSK\BTL_HSK\bin\Debug\BTL_HSK.exe.config
+D:\c#\BTL_HSK\BTL_HSK\bin\Debug\BTL_HSK.exe
+D:\c#\BTL_HSK\BTL_HSK\bin\Debug\BTL_HSK.pdb
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.csproj.AssemblyReference.cache
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.Properties.Resources.resources
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.csproj.GenerateResource.cache
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.csproj.CoreCompileInputs.cache
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.exe
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.pdb
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.SanPham.resources
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.Loại_SP.resources
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.TrangChu.resources
+D:\c#\BTL_HSK\BTL_HSK\obj\Debug\BTL_HSK.NCC.resources
